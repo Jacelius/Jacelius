@@ -17,13 +17,7 @@
 
 - 👨‍💻 All of my projects *will be* available at [jacelius.github.io](https://jacelius.github.io/)
 
-- 📝 I regularly write articles on [jacelius.github.io](jacelius.github.io)
-
-- 💬 Ask me about **chess ♜**
-
 - 📫 How to reach me **sipn@itu.dk**
-
-- 📄 Know about my experiences [jacelius.github.io](jacelius.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
