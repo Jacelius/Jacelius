@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/silas_paaske" target="blank"><img src="https://img.shields.io/twitter/follow/silas_paaske?logo=twitter&style=for-the-badge" alt="silas_paaske" /></a> </p>
 
-- 🔭 I’m currently working on [a lol drafting game](https://github.com/Jacelius/LeagueOfDrafts)
+- 🔭 I’m currently working on [a game about drafting in League of Legends](https://github.com/Jacelius/LeagueOfDrafts), and a little of my own [code curiosities to answer space questions](https://github.com/Jacelius/Space)
 
 - 🌱 I’m currently learning **Next.js, Go, a lot of DevOps tools**
 
