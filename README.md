@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with [deciding a master's thesis topic](?)
 
-- 👨‍💻 All of my projects are available at [jacelius.github.io](jacelius.github.io)
+- 👨‍💻 All of my projects *will be* available at [jacelius.github.io](https://jacelius.github.io/)
 
 - 📝 I regularly write articles on [jacelius.github.io](jacelius.github.io)
 
