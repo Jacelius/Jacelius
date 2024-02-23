@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jacelius" alt="jacelius" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/silas_paaske" target="blank"><img src="https://img.shields.io/twitter/follow/silas_paaske?logo=twitter&style=for-the-badge" alt="silas_paaske" /></a> </p>
-
 - 🔭 I’m currently working on [a game about drafting in League of Legends](https://github.com/Jacelius/LeagueOfDrafts), and a little of my own [code curiosities to answer space questions](https://github.com/Jacelius/Space)
 
 - 🌱 I’m currently learning **Next.js, Go, a lot of DevOps tools**
@@ -17,7 +15,7 @@
 
 - 👨‍💻 All of my projects *will be* available at [jacelius.github.io](https://jacelius.github.io/)
 
-- 📫 How to reach me **sipn@itu.dk**
+- 📫 How to reach me **silas6060@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
